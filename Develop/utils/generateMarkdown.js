@@ -113,7 +113,7 @@ function generateQuestions(questionsEmail, questionsPic) {
   let questions = "## Questions";
 
   questions += `
-![Image of Tony](${questionsPic})
+![Image of Diego](${questionsPic})
 * Email: ${questionsEmail}
 `
   return questions;
